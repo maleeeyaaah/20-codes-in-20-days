@@ -8,18 +8,6 @@ This repository contains the code solutions and projects I develop as part of my
 - Explore different programming concepts and techniques.
 - Document my progress and learning journey.
 
-## Topics Covered 💡
-Throughout this challenge, the programs will explore topics such as:
-- Basic Arithmetic and Calculations
-- Games and Simulations
-- String Manipulation
-- Unit Conversions
-- Time Management Tools
-- Password and Data Security
-- File and Text Handling
-- User Interaction and Input Processing
-- Problem-Solving Techniques
-
 ## Programs List 🗂️
 
 Here are the 20 programs I will be developing as part of this challenge:
